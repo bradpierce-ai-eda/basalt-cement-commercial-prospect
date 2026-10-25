@@ -1,0 +1,7 @@
+pypdf==6.10.0
+lxml==6.1.1
+markdown-it-py==4.2.0
+bibtexparser==1.4.3
+rispy==0.10.0
+PyYAML==6.0.3
+jsonschema==4.26.0

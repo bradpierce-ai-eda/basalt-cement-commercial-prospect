@@ -1,0 +1,18 @@
+{
+  "doi": "10.5281/zenodo.23623124",
+  "canonical_blocks_sha256": "f0e72dfc60f76de7a50cac8b500c83429e41cf7cd43671c5cd5f26111aa5f155",
+  "pdf_sha256": "72fac148b1457e4687d10d4e61affb00c9d8ede2170cfc9d004dc90b0f91ae7c",
+  "pdf_bytes": 288937,
+  "pdf_pages": 33,
+  "tables": 9,
+  "figures": 4,
+  "references": 3,
+  "blocks": 166,
+  "table_cells": 202,
+  "figure_sha256": {
+    "F1a.svg": "afc4114acc75ef44bd4da34b5eb846b162a259a3f89dfee8b8e517a32e5d179d",
+    "F1b.svg": "58246c09d0e3c9e5fad389d87a121c0ef6ca270b23323b55c6f8d2e0261bf10f",
+    "F2a.svg": "49197ca4b24709872abdf1d4520a23c15e90c5966f26f21997f37f61f42ca25c",
+    "F2b.svg": "c799cc0b4c2be3b7c7c98b499ab7d336a312735b472994df45e660f644c8c936"
+  }
+}

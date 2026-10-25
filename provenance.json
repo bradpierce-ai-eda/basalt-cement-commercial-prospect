@@ -1,0 +1,25 @@
+{
+  "source_publication": "https://zenodo.org/records/23623124",
+  "preferred_version_doi": "10.5281/zenodo.23623124",
+  "concept_doi": "10.5281/zenodo.23623123",
+  "source_filename": "basalt-cement-commercial-prospect.pdf",
+  "source_pdf_url": "https://zenodo.org/api/records/23623124/files/basalt-cement-commercial-prospect.pdf/content",
+  "source_pdf_sha256": "72fac148b1457e4687d10d4e61affb00c9d8ede2170cfc9d004dc90b0f91ae7c",
+  "source_bytes": 288937,
+  "source_pages": 33,
+  "representation": "Complete source-bound static HTML and Markdown; exact published PDF and vector SVGs; source text independently reconciled with deposited PDF structure and extraction.",
+  "representation_changes": [
+    "Page numbers and purely decorative PDF objects excluded from canonical text.",
+    "Repeated visual table headers represented by one logical column-header row.",
+    "PDF authored figure alt descriptions preserved verbatim.",
+    "Line wrapping represented by HTML/Markdown layout; all prose, cells, captions, qualifiers and reference strings preserved."
+  ],
+  "bibliography": "Published reference strings retained; normalized metadata separately carries primary-registry fields and the explicit shared-DOI file exception.",
+  "generation_date": "2026-10-24",
+  "tools": {
+    "python": "3.12",
+    "validation": "pypdf, lxml, markdown-it-py, bibtexparser, rispy and PyYAML; classic BibTeX consumer"
+  },
+  "rebuild_command": "python scripts/build_derivative.py --repo .",
+  "validation_command": "python scripts/validate_derivative.py --repo ."
+}

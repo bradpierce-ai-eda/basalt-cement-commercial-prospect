@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f173_ref_001",
+    "type": "report",
+    "title": "Basalt-Derived Calcium for Lower Carbon Portland Cement: A Carbon Budget for Process Development",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.23547373",
+    "URL": "https://doi.org/10.5281/zenodo.23547373",
+    "note": "[1] Pierce, B. (2026). Basalt-Derived Calcium for Lower Carbon Portland Cement: A Carbon Budget for Process Development. 21 October 2026. Zenodo. https://doi.org/10.5281/zenodo.23547373",
+    "publisher": "Zenodo"
+  },
+  {
+    "id": "f173_ref_002",
+    "type": "report",
+    "title": "Calculation Supplement for Basalt-Derived Calcium: Paired Carbon Budget, Coupled Operating Specification and Reproduction",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "DOI": "10.5281/zenodo.23547373",
+    "URL": "https://doi.org/10.5281/zenodo.23547373",
+    "note": "[2] Pierce, B. (2026). Calculation Supplement for Basalt-Derived Calcium: Paired Carbon Budget, Coupled Operating Specification and Reproduction. Accompanying file calculation-supplement-for-basalt-derived-calcium.pdf in the Zenodo deposit for [1]. https://doi.org/10.5281/zenodo.23547373",
+    "publisher": "Zenodo"
+  },
+  {
+    "id": "f173_ref_003",
+    "type": "article-journal",
+    "title": "Silicate-derived calcium as a pathway to low-carbon Portland cement",
+    "author": [
+      {
+        "family": "Prancevic",
+        "given": "Jeff P."
+      },
+      {
+        "family": "Finke",
+        "given": "Cody E."
+      },
+      {
+        "family": "Peterson",
+        "given": "Eric"
+      },
+      {
+        "family": "Nguyen",
+        "given": "Wilson"
+      },
+      {
+        "family": "Clarens",
+        "given": "Andres F."
+      },
+      {
+        "family": "Pyatina",
+        "given": "Tatiana"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "DOI": "10.1038/s44458-026-00056-4",
+    "URL": "https://doi.org/10.1038/s44458-026-00056-4",
+    "note": "[3] Prancevic, J. P., Finke, C. E., Peterson, E., Nguyen, W., Clarens, A. F., and Pyatina, T. (2026). Silicate-derived calcium as a pathway to low-carbon Portland cement. Communications Sustainability 1, 78. https://doi.org/10.1038/s44458-026-00056-4",
+    "container-title": "Communications Sustainability",
+    "volume": "1",
+    "issue": "1",
+    "article-number": "78",
+    "publisher": "Springer Science and Business Media LLC"
+  }
+]

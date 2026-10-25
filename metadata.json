@@ -1,0 +1,52 @@
+{
+  "title": "Basalt-Derived Calcium for Cement: A Weak Commercial Prospect Without Incentives or Technical Advances",
+  "subtitle": "Reported carbon outcomes, operating burdens and commercial prospects",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "family": "Pierce",
+      "given": "Brad",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-10-24",
+  "manuscript_date": "2026-10-24",
+  "doi": "10.5281/zenodo.23623124",
+  "doi_url": "https://doi.org/10.5281/zenodo.23623124",
+  "concept_doi": "10.5281/zenodo.23623123",
+  "zenodo_record": "https://zenodo.org/records/23623124",
+  "abstract": "This assessment examines my Basalt-Derived Calcium for Lower Carbon Portland Cement: A Carbon Budget for Process Development and its calculation supplement. Under the studied process assumptions, with no substantial financial reward for avoided emissions and no major technical advance, I judge the acid-assisted basalt-recovery route a weak prospect for widespread commercial use. The reports give a 16.0% emissions reduction under favorable coupled recovery assumptions, full replacement of a selected calcium quantity and matched low-carbon electricity. Other reported assumptions erode or reverse the saving. The route adds substantial calcium-recovery work while retaining clinker and cement manufacture, creating a large processing burden for a fragile carbon advantage. This is a qualitative engineering judgment, not a demonstrated cost disadvantage; neither a complete priced case nor the realism of the assumptions for an actual project is established. Reliable emissions incentives could change private returns. Technical advances in usable calcium recovery, reagent regeneration, conditioning or precursor requirements could reduce the underlying burdens. Either or both could improve the commercial outlook, but the achievable gains and support required remain unknown.",
+  "keywords": [
+    "basalt-derived calcium",
+    "Portland cement",
+    "cement decarbonization",
+    "calcium recovery",
+    "reagent regeneration",
+    "carbon accounting",
+    "commercial feasibility",
+    "process development"
+  ],
+  "controlled_subjects": [
+    "Materials engineering"
+  ],
+  "resource_type": "Report",
+  "publisher": "Zenodo",
+  "license": "CC-BY-NC-4.0",
+  "copyright": "© 2026 Brad Pierce",
+  "language": "en",
+  "public_urls": {
+    "article": "https://bradpierce.ai/basalt-cement-commercial-prospect/",
+    "pdf": "https://bradpierce.ai/basalt-cement-commercial-prospect/basalt-cement-commercial-prospect.pdf"
+  },
+  "pdf_filename": "basalt-cement-commercial-prospect.pdf",
+  "source_pdf_url": "https://zenodo.org/api/records/23623124/files/basalt-cement-commercial-prospect.pdf/content",
+  "pdf_sha256": "72fac148b1457e4687d10d4e61affb00c9d8ede2170cfc9d004dc90b0f91ae7c",
+  "pdf_bytes": 288937,
+  "pdf_pages": 33,
+  "relevance_scope": [
+    "This report provides a conditional engineering and commercial assessment of the studied acid-assisted basalt-calcium recovery route for Portland cement, covering retained manufacturing duties, paired carbon accounting, operating and replication burdens, and policy and technical changes that could improve viability.",
+    "The DOI-linked Zenodo report is the publication of record. Reported process values and other authors’ results remain attributable to the cited technical paper, calculation supplement and journal article.",
+    "The assessment is a qualitative judgment under studied assumptions, not a demonstrated cost disadvantage, an independently reproduced carbon calculation or a qualified operating plant."
+  ],
+  "generation_date": "2026-10-24"
+}
